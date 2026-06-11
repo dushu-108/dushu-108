@@ -2,7 +2,7 @@
 
 # 💫 About Me
 
-Hey there! 👋 I'm a passionate **full-stack developer** with expertise in the MERN stack and modern web technologies. I'm constantly building scalable applications, crafting intuitive user interfaces, and developing robust backend systems. I love turning ideas into reality and breaking complex problems into elegant solutions 💻. Let's build something amazing together! 🚀
+Hey there! 👋 I'm a passionate **full-stack developer** with expertise in the MERN stack and modern web technologies. I'm constantly building scalable applications, crafting intuitive user interfaces, and solving complex problems. With a strong foundation in JavaScript, TypeScript, and modern web frameworks, I'm dedicated to creating applications that not only meet requirements but exceed expectations.
 
 <h3 align="center">Code and Coffee keep me running...</h3>
 
@@ -53,34 +53,18 @@ Hey there! 👋 I'm a passionate **full-stack developer** with expertise in the 
 ## 🏆 Featured Projects
 
 ### 💼 Full-Stack & Production Applications
-- **[Hirebuddy](https://github.com/dushu-108/Hirebuddy)** - Comprehensive recruitment and hiring platform | JavaScript
-- **[Hirebuddy-backend](https://github.com/dushu-108/Hirebuddy-backend)** - Scalable backend services for recruitment workflow | JavaScript
 - **[Flowmazon](https://github.com/dushu-108/Flowmazon)** - E-commerce flow management system | TypeScript
-- **[Rebane](https://github.com/dushu-108/Rebane)** - Real estate platform with advanced features | TypeScript
 - **[Horizon](https://github.com/dushu-108/Horizon)** - Modern web application | JavaScript
-- **[Glowbal](https://github.com/dushu-108/Glowbal)** - Global commerce and marketplace platform | JavaScript
 
 ### 🎨 Frontend & UX Projects
-- **[erino-frontend](https://github.com/dushu-108/erino-frontend)** - Modern frontend interface | JavaScript
 - **[Portfolio-Builder](https://github.com/dushu-108/Portfolio-Builder)** - Dynamic portfolio creation tool | JavaScript
-- **[veed-clone](https://github.com/dushu-108/veed-clone)** - Video editing platform clone | TypeScript
-- **[whiteboard](https://github.com/dushu-108/whiteboard)** - Collaborative whiteboard application | JavaScript
+- **[Volt](https://github.com/dushu-108/Volt)** - Interactive web application | JavaScript
 
-### ⚙️ Backend & API Projects
-- **[erino-backend](https://github.com/dushu-108/erino-backend)** - Robust backend services | JavaScript
-- **[dummy-api](https://github.com/dushu-108/dummy-api)** - RESTful API development | JavaScript
-- **[Webhook](https://github.com/dushu-108/Webhook)** - Webhook management system | JavaScript
-- **[mailer](https://github.com/dushu-108/mailer)** - Email service integration | JavaScript
-
-### 🔐 Specialized Projects
-- **[secure-sight](https://github.com/dushu-108/secure-sight)** - Security monitoring and threat detection | TypeScript
-- **[Scaledux](https://github.com/dushu-108/Scaledux)** - Scalable data management solution | Python
-- **[Cred_assignment](https://github.com/dushu-108/Cred_assignment)** - Credential management system | JavaScript
-
-### 📚 Learning & Practice Projects
-- **[neetcode-submissions](https://github.com/dushu-108/neetcode-submissions)** - LeetCode/NeetCode problem solutions | Python
-- **[kapybara](https://github.com/dushu-108/kapybara)** - Experimental learning project | TypeScript
+### 💬 Real-Time Applications
 - **[Chat](https://github.com/dushu-108/Chat)** - Real-time chat application | JavaScript
+
+### 🚀 Experimental & New Projects
+- **[Flow-weaver](https://github.com/dushu-108/Flow-weaver)** - Workflow and flow management system | JavaScript
 
 ---
 
@@ -105,7 +89,7 @@ Hey there! 👋 I'm a passionate **full-stack developer** with expertise in the 
 ✅ **Backend Architecture** — Node.js, Express, REST APIs, and database design  
 ✅ **Problem-Solving** — Algorithmic challenges, system design, and code optimization  
 ✅ **DevOps & Deployment** — Git, GitHub, Docker, Vercel, and CI/CD practices  
-✅ **Project Diversity** — E-commerce, recruitment, real estate, security, and more  
+✅ **Project Diversity** — E-commerce, chat applications, portfolio builders, and more  
 ✅ **Code Quality** — Clean, maintainable, well-documented, production-ready code  
 
 ---
@@ -142,7 +126,7 @@ I'm always excited to:
 
 ## 📌 Quick Stats
 
-- 🏗️ **30+** Projects across different domains
+- 🏗️ **6+** Active projects
 - 💡 **Full-Stack Expert** in JavaScript/TypeScript
 - 🎯 **Focus Areas:** Web Development, API Design, System Architecture
 - 🔧 **Tech Versatility:** Frontend, Backend, Full-Stack capabilities
